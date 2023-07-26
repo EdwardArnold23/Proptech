@@ -1,5 +1,7 @@
-# Diamante Vistas, LLC 
+# Diamante Vistas, LLC - "The Proptech company for you"
 ![Image of San Francisco Homes](Images/6-4-challenge-image.png)
+
+## Introduction
 Our product offers the customer the ability to buy properties and then rent them via one-click. In the end the customer will be able to narrow down a list of prospective neighborhoods to invest in. 
 
 ## Objective
