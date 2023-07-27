@@ -1,4 +1,5 @@
-# Diamante Vistas, LLC /n"The Proptech company for you"
+# Diamante Vistas, LLC 
+"The Proptech company for you"
 ![Image of San Francisco Homes](Images/6-4-challenge-image.png)
 
 ## Introduction
