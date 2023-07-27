@@ -34,13 +34,13 @@ The following analysis will be provided:
 - housing_per_year.csv
 - neighborhoods_coordinates.csv
 - sfo_neighborhoods_census_data.csv
+
+## Images
+- 6-4-challenge-image.png
 - housing_units_per_year.png
 - Sale_price_per_sqft_vs_gross_rent.png
 - Anza_filter_line.png
 - Geoview_mapping.png
-
-## Images
-- 6-4-challenge-image.png
   
 ## License
 Copyright © 2023 Diamente Vistas, LLC
