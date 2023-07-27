@@ -14,9 +14,16 @@ The following analysis will be provided:
   4. Recommendations of where to invest for buying and renting properties in San Franscisco, California.
 
       ** Please note that in running the jupyter notebook hvplot visuals may have a delay and restarting the kernel may be needed.
-## Outcomes
+## Results
 
-
+### 1. Housing Units Per Year
+![1. Housing Units Per Year](Images/housing_units_per_year.png)
+### 2. Sale Price per Sqft vs. Gross Rent
+![2. Sale Price per Sqft vs. Gross Rent](Images/Sale_price_per_sqft_vs_gross_rent.png)
+### 3. Sale Price per Sqft vs. Gross Rent filter by Anza
+![3. Sale Price per Sqft vs. Gross Rent filter by Anza](Images/Anza_filter_line.png)
+### 4. Geoview Mapping - Sales Price per Sqft to Gross Rent
+![4. Geoview Mapping - Sales Price per Sqft to Gross Rent](Images/Geoview_mapping.png)
 
 ## Credits
  - UC Berkeley Fintech Bootcamp
