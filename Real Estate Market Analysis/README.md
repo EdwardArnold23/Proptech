@@ -14,6 +14,8 @@ The following analysis will be provided:
   4. Recommendations of where to invest for buying and renting properties in San Franscisco, California.
 
       ** Please note that in running the jupyter notebook hvplot visuals may have a delay and restarting the kernel may be needed.
+## Outcomes
+
 
 
 ## Credits
