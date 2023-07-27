@@ -1,5 +1,4 @@
-# Diamante Vistas, LLC 
-## "The Proptech company for you"
+# Diamante Vistas, LLC /n"The Proptech company for you"
 ![Image of San Francisco Homes](Images/6-4-challenge-image.png)
 
 ## Introduction
@@ -13,18 +12,18 @@ The following analysis will be provided:
   4. Recommendations of where to invest for buying and renting properties in San Franscisco, California.
 
 ## Credits
-  UC Berkeley Fintech Bootcamp
-  Hvplot https://hvplot.holoviz.org/user_guide.html
-  US Census Data 
+ - UC Berkeley Fintech Bootcamp
+ - Hvplot https://hvplot.holoviz.org/user_guide.html
+ - US Census Data 
 
 ## Resources
-  housing_per_year.csv
-  neighborhoods_coordinates.csv
-  sfo_neighborhoods_census_data.csv
+- housing_per_year.csv
+- neighborhoods_coordinates.csv
+- sfo_neighborhoods_census_data.csv
 
 ## Images
-  6-4-challenge-image.png
-
+- 6-4-challenge-image.png
+  
 ## License
 Copyright © 2023 Diamente Vistas, LLC
 Edward N. Arnold II, PsyD.
